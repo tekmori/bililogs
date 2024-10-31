@@ -1,0 +1,59 @@
+[2024-10-31 06:35:27]
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV11iS5YEEHn
+[BiliBili] 11iS5YEEHn: Downloading webpage
+[BiliBili] BV11iS5YEEHn: Extracting videos in anthology
+[BiliBili] 113398578679581: Extracting chapters
+[info] Available formats for BV11iS5YEEHn:
+ID     EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC           VBR ACODEC      ABR
+------------------------------------------------------------------------------------------
+30216  m4a audio only     | ≈850.29KiB    35k https | audio only           mp4a.40.5   35k
+30232  m4a audio only     | ≈  1.92MiB    81k https | audio only           mp4a.40.2   81k
+30280  m4a audio only     | ≈  3.48MiB   148k https | audio only           mp4a.40.2  148k
+100022 mp4 360x640     30 | ≈  3.49MiB   148k https | av01.0.00M.10   148k video only
+100046 mp4 360x640     30 | ≈  4.75MiB   201k https | avc1.64001E     201k video only
+30011  mp4 360x640     30 | ≈  3.66MiB   155k https | hev1.1.6.L120   155k video only
+100023 mp4 480x852     30 | ≈  4.95MiB   210k https | av01.0.00M.10   210k video only
+100047 mp4 480x852     30 | ≈  8.29MiB   352k https | avc1.64001F     352k video only
+30033  mp4 480x852     30 | ≈  5.14MiB   218k https | hev1.1.6.L120   218k video only
+100024 mp4 720x1280    30 | ≈  8.10MiB   343k https | av01.0.00M.10   343k video only
+100048 mp4 720x1280    30 | ≈ 16.14MiB   684k https | avc1.640028     684k video only
+30066  mp4 720x1280    30 | ≈  8.60MiB   364k https | hev1.1.6.L120   364k video only
+100026 mp4 1080x1920   30 | ≈ 15.83MiB   671k https | av01.0.00M.10   671k video only
+100050 mp4 1080x1920   30 | ≈ 26.65MiB  1130k https | avc1.640032    1130k video only
+30077  mp4 1080x1920   30 | ≈ 16.13MiB   684k https | hev1.1.6.L150   684k video only
+100027 mp4 1080x1920   30 | ≈ 28.00MiB  1187k https | av01.0.00M.10  1187k video only
+30112  mp4 1080x1920   30 | ≈ 60.13MiB  2548k https | avc1.640032    2548k video only
+30102  mp4 1080x1920   30 | ≈ 27.41MiB  1162k https | hev1.1.6.L150  1162k video only
+100029 mp4 2160x3840   30 | ≈ 65.73MiB  2786k https | av01.0.00M.10  2786k video only
+30120  mp4 2160x3840   30 | ≈259.42MiB 10995k https | avc1.640033   10995k video only
+30121  mp4 2160x3840   30 | ≈ 90.29MiB  3827k https | hev1.1.6.L153  3827k video only
+
+[2024-10-31 06:55:31]
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV11iS5YEEHn
+[BiliBili] 11iS5YEEHn: Downloading webpage
+[BiliBili] BV11iS5YEEHn: Extracting videos in anthology
+[BiliBili] 113398578679581: Extracting chapters
+[info] Available formats for BV11iS5YEEHn:
+ID     EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC           VBR ACODEC      ABR
+------------------------------------------------------------------------------------------
+30216  m4a audio only     | ≈850.29KiB    35k https | audio only           mp4a.40.5   35k
+30232  m4a audio only     | ≈  1.92MiB    81k https | audio only           mp4a.40.2   81k
+30280  m4a audio only     | ≈  3.48MiB   148k https | audio only           mp4a.40.2  148k
+100022 mp4 360x640     30 | ≈  3.49MiB   148k https | av01.0.00M.10   148k video only
+100046 mp4 360x640     30 | ≈  4.75MiB   201k https | avc1.64001E     201k video only
+100109 mp4 360x640     30 | ≈  3.16MiB   134k https | hev1.1.6.L120   134k video only
+100023 mp4 480x852     30 | ≈  4.95MiB   210k https | av01.0.00M.10   210k video only
+100047 mp4 480x852     30 | ≈  8.29MiB   352k https | avc1.64001F     352k video only
+100110 mp4 480x852     30 | ≈  4.50MiB   191k https | hev1.1.6.L120   191k video only
+100024 mp4 720x1280    30 | ≈  8.10MiB   343k https | av01.0.00M.10   343k video only
+100048 mp4 720x1280    30 | ≈ 16.14MiB   684k https | avc1.640028     684k video only
+100111 mp4 720x1280    30 | ≈  6.89MiB   292k https | hev1.1.6.L120   292k video only
+100026 mp4 1080x1920   30 | ≈ 15.83MiB   671k https | av01.0.00M.10   671k video only
+100050 mp4 1080x1920   30 | ≈ 26.65MiB  1130k https | avc1.640032    1130k video only
+100113 mp4 1080x1920   30 | ≈ 12.93MiB   548k https | hev1.1.6.L150   548k video only
+100027 mp4 1080x1920   30 | ≈ 28.00MiB  1187k https | av01.0.00M.10  1187k video only
+30112  mp4 1080x1920   30 | ≈ 60.13MiB  2548k https | avc1.640032    2548k video only
+100143 mp4 1080x1920   30 | ≈ 27.15MiB  1151k https | hev1.1.6.L150  1151k video only
+100029 mp4 2160x3840   30 | ≈ 65.73MiB  2786k https | av01.0.00M.10  2786k video only
+30120  mp4 2160x3840   30 | ≈259.42MiB 10995k https | avc1.640033   10995k video only
+100145 mp4 2160x3840   30 | ≈ 85.26MiB  3613k https | hev1.1.6.L153  3613k video only

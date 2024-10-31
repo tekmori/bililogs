@@ -1,0 +1,82 @@
+[2024-10-30 20:38:45]
+[info] Available formats for BV1j8S3YdEaT:
+ID    EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC         VBR ACODEC      ABR
+---------------------------------------------------------------------------------------
+30216 m4a audio only     | ≈  3.72MiB    42k https | audio only         mp4a.40.5   42k
+30232 m4a audio only     | ≈  8.21MiB    93k https | audio only         mp4a.40.2   93k
+30280 m4a audio only     | ≈ 15.31MiB   174k https | audio only         mp4a.40.2  174k
+30016 mp4 640x360     30 | ≈ 37.25MiB   423k https | avc1.64001E   423k video only
+30032 mp4 852x480     30 | ≈ 74.11MiB   842k https | avc1.64001F   842k video only
+30064 mp4 1280x720    30 | ≈157.02MiB  1785k https | avc1.640028  1785k video only
+30080 mp4 1920x1080   30 | ≈239.66MiB  2725k https | avc1.640032  2725k video only
+30112 mp4 1920x1080   30 | ≈459.05MiB  5219k https | avc1.640032  5219k video only
+30120 mp4 3840x2160   30 | ≈  1.79GiB 20793k https | avc1.640033 20793k video only
+
+
+[2024-10-31 00:09:27]
+[info] Available formats for BV1j8S3YdEaT:
+ID    EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC           VBR ACODEC      ABR
+-----------------------------------------------------------------------------------------
+30216 m4a audio only     | ≈  3.72MiB    42k https | audio only           mp4a.40.5   42k
+30232 m4a audio only     | ≈  8.21MiB    93k https | audio only           mp4a.40.2   93k
+30280 m4a audio only     | ≈ 15.31MiB   174k https | audio only           mp4a.40.2  174k
+30016 mp4 640x360     30 | ≈ 37.25MiB   423k https | avc1.64001E     423k video only
+30011 mp4 640x360     30 | ≈ 28.18MiB   320k https | hev1.1.6.L120   320k video only
+30032 mp4 852x480     30 | ≈ 74.11MiB   842k https | avc1.64001F     842k video only
+30033 mp4 852x480     30 | ≈ 49.58MiB   564k https | hev1.1.6.L120   564k video only
+30064 mp4 1280x720    30 | ≈157.02MiB  1785k https | avc1.640028    1785k video only
+30066 mp4 1280x720    30 | ≈ 93.31MiB  1061k https | hev1.1.6.L120  1061k video only
+30080 mp4 1920x1080   30 | ≈239.66MiB  2725k https | avc1.640032    2725k video only
+30077 mp4 1920x1080   30 | ≈166.44MiB  1892k https | hev1.1.6.L150  1892k video only
+30112 mp4 1920x1080   30 | ≈459.05MiB  5219k https | avc1.640032    5219k video only
+30102 mp4 1920x1080   30 | ≈338.43MiB  3847k https | hev1.1.6.L150  3847k video only
+30120 mp4 3840x2160   30 | ≈  1.79GiB 20793k https | avc1.640033   20793k video only
+30121 mp4 3840x2160   30 | ≈  1.00GiB 11661k https | hev1.1.6.L153 11661k video only
+
+
+[2024-10-31 00:19:29]
+[info] Available formats for BV1j8S3YdEaT:
+ID     EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC           VBR ACODEC      ABR
+------------------------------------------------------------------------------------------
+30216  m4a audio only     | ≈  3.72MiB    42k https | audio only           mp4a.40.5   42k
+30232  m4a audio only     | ≈  8.21MiB    93k https | audio only           mp4a.40.2   93k
+30280  m4a audio only     | ≈ 15.31MiB   174k https | audio only           mp4a.40.2  174k
+100046 mp4 640x360     30 | ≈ 37.58MiB   427k https | avc1.64001E     427k video only
+30011  mp4 640x360     30 | ≈ 28.18MiB   320k https | hev1.1.6.L120   320k video only
+100047 mp4 852x480     30 | ≈ 74.43MiB   846k https | avc1.64001F     846k video only
+30033  mp4 852x480     30 | ≈ 49.58MiB   564k https | hev1.1.6.L120   564k video only
+100048 mp4 1280x720    30 | ≈157.36MiB  1789k https | avc1.640028    1789k video only
+30066  mp4 1280x720    30 | ≈ 93.31MiB  1061k https | hev1.1.6.L120  1061k video only
+100050 mp4 1920x1080   30 | ≈239.89MiB  2727k https | avc1.640032    2727k video only
+30077  mp4 1920x1080   30 | ≈166.44MiB  1892k https | hev1.1.6.L150  1892k video only
+30112  mp4 1920x1080   30 | ≈459.05MiB  5219k https | avc1.640032    5219k video only
+30102  mp4 1920x1080   30 | ≈338.43MiB  3847k https | hev1.1.6.L150  3847k video only
+30120  mp4 3840x2160   30 | ≈  1.79GiB 20793k https | avc1.640033   20793k video only
+30121  mp4 3840x2160   30 | ≈  1.00GiB 11661k https | hev1.1.6.L153 11661k video only
+
+
+[2024-10-31 02:49:58]
+[info] Available formats for BV1j8S3YdEaT:
+ID     EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC           VBR ACODEC      ABR
+------------------------------------------------------------------------------------------
+30216  m4a audio only     | ≈  3.72MiB    42k https | audio only           mp4a.40.5   42k
+30232  m4a audio only     | ≈  8.21MiB    93k https | audio only           mp4a.40.2   93k
+30280  m4a audio only     | ≈ 15.31MiB   174k https | audio only           mp4a.40.2  174k
+100022 mp4 640x360     30 | ≈ 27.72MiB   315k https | av01.0.00M.10   315k video only
+100046 mp4 640x360     30 | ≈ 37.58MiB   427k https | avc1.64001E     427k video only
+30011  mp4 640x360     30 | ≈ 28.18MiB   320k https | hev1.1.6.L120   320k video only
+100023 mp4 852x480     30 | ≈ 57.13MiB   649k https | av01.0.00M.10   649k video only
+100047 mp4 852x480     30 | ≈ 74.43MiB   846k https | avc1.64001F     846k video only
+30033  mp4 852x480     30 | ≈ 49.58MiB   564k https | hev1.1.6.L120   564k video only
+100024 mp4 1280x720    30 | ≈108.25MiB  1231k https | av01.0.00M.10  1231k video only
+100048 mp4 1280x720    30 | ≈157.36MiB  1789k https | avc1.640028    1789k video only
+30066  mp4 1280x720    30 | ≈ 93.31MiB  1061k https | hev1.1.6.L120  1061k video only
+100026 mp4 1920x1080   30 | ≈165.82MiB  1885k https | av01.0.00M.10  1885k video only
+100050 mp4 1920x1080   30 | ≈239.89MiB  2727k https | avc1.640032    2727k video only
+30077  mp4 1920x1080   30 | ≈166.44MiB  1892k https | hev1.1.6.L150  1892k video only
+100027 mp4 1920x1080   30 | ≈410.89MiB  4671k https | av01.0.00M.10  4671k video only
+30112  mp4 1920x1080   30 | ≈459.05MiB  5219k https | avc1.640032    5219k video only
+30102  mp4 1920x1080   30 | ≈338.43MiB  3847k https | hev1.1.6.L150  3847k video only
+100029 mp4 3840x2160   30 | ≈901.78MiB 10252k https | av01.0.00M.10 10252k video only
+30120  mp4 3840x2160   30 | ≈  1.79GiB 20793k https | avc1.640033   20793k video only
+30121  mp4 3840x2160   30 | ≈  1.00GiB 11661k https | hev1.1.6.L153 11661k video only
