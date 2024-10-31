@@ -1,0 +1,126 @@
+[2024-10-31 17:44:58]
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1wVSnYbEBa
+[BiliBili] 1wVSnYbEBa: Downloading webpage
+[BiliBili] BV1wVSnYbEBa: Extracting videos in anthology
+[BiliBili] 113401330142114: Extracting chapters
+[info] Available formats for BV1wVSnYbEBa:
+ID    EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC         VBR ACODEC     ABR
+--------------------------------------------------------------------------------------
+30216 m4a audio only     | ≈  3.39MiB    42k https | audio only         mp4a.40.5  42k
+30232 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30280 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30016 mp4 640x360     30 | ≈ 23.29MiB   291k https | avc1.64001E   291k video only
+30032 mp4 852x480     30 | ≈ 36.76MiB   460k https | avc1.64001F   460k video only
+30064 mp4 1280x720    30 | ≈ 70.32MiB   880k https | avc1.640028   880k video only
+30080 mp4 1920x1080   30 | ≈161.19MiB  2017k https | avc1.640032  2017k video only
+30112 mp4 1920x1080   30 | ≈255.46MiB  3197k https | avc1.640032  3197k video only
+30120 mp4 3840x2160   30 | ≈  1.21GiB 15491k https | avc1.640033 15491k video only
+
+[2024-10-31 17:55:03]
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1wVSnYbEBa
+[BiliBili] 1wVSnYbEBa: Downloading webpage
+[BiliBili] BV1wVSnYbEBa: Extracting videos in anthology
+[BiliBili] 113401330142114: Extracting chapters
+[info] Available formats for BV1wVSnYbEBa:
+ID    EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC         VBR ACODEC     ABR
+--------------------------------------------------------------------------------------
+30216 m4a audio only     | ≈  3.39MiB    42k https | audio only         mp4a.40.5  42k
+30232 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30280 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30016 mp4 640x360     30 | ≈ 23.29MiB   291k https | avc1.64001E   291k video only
+30032 mp4 852x480     30 | ≈ 36.76MiB   460k https | avc1.64001F   460k video only
+30064 mp4 1280x720    30 | ≈ 70.32MiB   880k https | avc1.640028   880k video only
+30080 mp4 1920x1080   30 | ≈161.19MiB  2017k https | avc1.640032  2017k video only
+30112 mp4 1920x1080   30 | ≈255.46MiB  3197k https | avc1.640032  3197k video only
+30120 mp4 3840x2160   30 | ≈  1.21GiB 15491k https | avc1.640033 15491k video only
+
+[2024-10-31 18:01:17]
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1wVSnYbEBa
+[BiliBili] 1wVSnYbEBa: Downloading webpage
+[BiliBili] BV1wVSnYbEBa: Extracting videos in anthology
+[BiliBili] 113401330142114: Extracting chapters
+[info] Available formats for BV1wVSnYbEBa:
+ID    EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC         VBR ACODEC     ABR
+--------------------------------------------------------------------------------------
+30216 m4a audio only     | ≈  3.39MiB    42k https | audio only         mp4a.40.5  42k
+30232 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30280 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30016 mp4 640x360     30 | ≈ 23.29MiB   291k https | avc1.64001E   291k video only
+30032 mp4 852x480     30 | ≈ 36.76MiB   460k https | avc1.64001F   460k video only
+30064 mp4 1280x720    30 | ≈ 70.32MiB   880k https | avc1.640028   880k video only
+30080 mp4 1920x1080   30 | ≈161.19MiB  2017k https | avc1.640032  2017k video only
+30112 mp4 1920x1080   30 | ≈255.46MiB  3197k https | avc1.640032  3197k video only
+30120 mp4 3840x2160   30 | ≈  1.21GiB 15491k https | avc1.640033 15491k video only
+
+[2024-10-31 18:04:01]
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1wVSnYbEBa
+[BiliBili] 1wVSnYbEBa: Downloading webpage
+[BiliBili] BV1wVSnYbEBa: Extracting videos in anthology
+[BiliBili] 113401330142114: Extracting chapters
+[info] Available formats for BV1wVSnYbEBa:
+ID    EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC         VBR ACODEC     ABR
+--------------------------------------------------------------------------------------
+30216 m4a audio only     | ≈  3.39MiB    42k https | audio only         mp4a.40.5  42k
+30232 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30280 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30016 mp4 640x360     30 | ≈ 23.29MiB   291k https | avc1.64001E   291k video only
+30032 mp4 852x480     30 | ≈ 36.76MiB   460k https | avc1.64001F   460k video only
+30064 mp4 1280x720    30 | ≈ 70.32MiB   880k https | avc1.640028   880k video only
+30080 mp4 1920x1080   30 | ≈161.19MiB  2017k https | avc1.640032  2017k video only
+30112 mp4 1920x1080   30 | ≈255.46MiB  3197k https | avc1.640032  3197k video only
+30120 mp4 3840x2160   30 | ≈  1.21GiB 15491k https | avc1.640033 15491k video only
+
+[2024-10-31 18:14:10]
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1wVSnYbEBa
+[BiliBili] 1wVSnYbEBa: Downloading webpage
+[BiliBili] BV1wVSnYbEBa: Extracting videos in anthology
+[BiliBili] 113401330142114: Extracting chapters
+[info] Available formats for BV1wVSnYbEBa:
+ID    EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC         VBR ACODEC     ABR
+--------------------------------------------------------------------------------------
+30216 m4a audio only     | ≈  3.39MiB    42k https | audio only         mp4a.40.5  42k
+30232 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30280 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30016 mp4 640x360     30 | ≈ 23.29MiB   291k https | avc1.64001E   291k video only
+30032 mp4 852x480     30 | ≈ 36.76MiB   460k https | avc1.64001F   460k video only
+30064 mp4 1280x720    30 | ≈ 70.32MiB   880k https | avc1.640028   880k video only
+30080 mp4 1920x1080   30 | ≈161.19MiB  2017k https | avc1.640032  2017k video only
+30112 mp4 1920x1080   30 | ≈255.46MiB  3197k https | avc1.640032  3197k video only
+30120 mp4 3840x2160   30 | ≈  1.21GiB 15491k https | avc1.640033 15491k video only
+
+[2024-10-31 18:24:15]
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1wVSnYbEBa
+[BiliBili] 1wVSnYbEBa: Downloading webpage
+[BiliBili] BV1wVSnYbEBa: Extracting videos in anthology
+[BiliBili] 113401330142114: Extracting chapters
+[info] Available formats for BV1wVSnYbEBa:
+ID    EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC         VBR ACODEC     ABR
+--------------------------------------------------------------------------------------
+30216 m4a audio only     | ≈  3.39MiB    42k https | audio only         mp4a.40.5  42k
+30232 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30280 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30016 mp4 640x360     30 | ≈ 23.29MiB   291k https | avc1.64001E   291k video only
+30032 mp4 852x480     30 | ≈ 36.76MiB   460k https | avc1.64001F   460k video only
+30064 mp4 1280x720    30 | ≈ 70.32MiB   880k https | avc1.640028   880k video only
+30080 mp4 1920x1080   30 | ≈161.19MiB  2017k https | avc1.640032  2017k video only
+30112 mp4 1920x1080   30 | ≈255.46MiB  3197k https | avc1.640032  3197k video only
+30120 mp4 3840x2160   30 | ≈  1.21GiB 15491k https | avc1.640033 15491k video only
+
+[2024-10-31 18:34:17]
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1wVSnYbEBa
+[BiliBili] 1wVSnYbEBa: Downloading webpage
+[BiliBili] BV1wVSnYbEBa: Extracting videos in anthology
+[BiliBili] 113401330142114: Extracting chapters
+[info] Available formats for BV1wVSnYbEBa:
+ID    EXT RESOLUTION FPS |   FILESIZE    TBR PROTO | VCODEC         VBR ACODEC     ABR
+--------------------------------------------------------------------------------------
+30216 m4a audio only     | ≈  3.39MiB    42k https | audio only         mp4a.40.5  42k
+30232 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30280 m4a audio only     | ≈  6.90MiB    86k https | audio only         mp4a.40.2  86k
+30016 mp4 640x360     30 | ≈ 23.29MiB   291k https | avc1.64001E   291k video only
+30032 mp4 852x480     30 | ≈ 36.76MiB   460k https | avc1.64001F   460k video only
+30064 mp4 1280x720    30 | ≈ 70.32MiB   880k https | avc1.640028   880k video only
+30080 mp4 1920x1080   30 | ≈161.19MiB  2017k https | avc1.640032  2017k video only
+30112 mp4 1920x1080   30 | ≈255.46MiB  3197k https | avc1.640032  3197k video only
+30120 mp4 3840x2160   30 | ≈  1.21GiB 15491k https | avc1.640033 15491k video only
+
